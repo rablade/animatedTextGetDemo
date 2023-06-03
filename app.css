@@ -1,4 +1,4 @@
-body{
+body {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -6,10 +6,10 @@ body{
     background-color: rgb(37, 31, 82);
 }
 
-h1{
+h1 {
     font-size: 15em;
     font-family: Montserrat;
 }
-.letter{
+.letter {
     transition: color 1000ms;
 }
