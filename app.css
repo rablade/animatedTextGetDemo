@@ -2,12 +2,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    background-color: rgb(97, 27, 145);
+    height: 100vh; teal;
 }
 
 h1 {
-    font-size: 15em;
+    font-size: 16em;
     font-family: Montserrat;
 }
 .letter {
